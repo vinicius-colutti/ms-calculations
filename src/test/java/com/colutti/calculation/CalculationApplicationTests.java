@@ -1,10 +1,10 @@
-package com.colutti.springUdemy;
+package com.colutti.calculation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringUdemyApplicationTests {
+class CalculationApplicationTests {
 
 	@Test
 	void contextLoads() {
